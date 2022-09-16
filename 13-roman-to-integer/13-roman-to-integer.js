@@ -2,31 +2,27 @@
  * @param {string} s
  * @return {number}
  */
+const Roman = {
+  I:1,V:5,X:10,L:50,C:100,D:500,M:1000,
+  IV:4,IX:9,XL:40,XC:90,CD:400,CM:900,
+};
+
 var romanToInt = function(s) {
-    const symbol = {
-        I:1,
-        IV:4,
-        V:5,
-        IX:9,
-        X:10,
-        XL:40,
-        L:50,
-        XC:90,
-        C:100,
-        CD:400,
-        D:500,
-        CM:900,
-        M:1000
+  let result=0;
+  const arr = [...s];
+  let i=0;
+  
+  for(i=0;i<s.length-1;i++) {
+    if((arr[i]+arr[i+1]) in Roman) {
+      result += Roman[arr[i]+arr[i+1]];
+      i++;
+    }else {
+      result+=Roman[arr[i]];
     }
+  }
     
-    let answer = 0;
-    
-    for(let i=0; i<s.length; i++) {
-        if(s[i+1] && symbol[s[i]+s[i+1]]){
-            answer+=symbol[s[i]+s[i+1]];
-            i++;
-        }else answer+=symbol[s[i]]
-    }
-    
-    return answer;
+  if(arr[i]) result+=Roman[arr[i]];
+  
+  return result;
+  
 };
