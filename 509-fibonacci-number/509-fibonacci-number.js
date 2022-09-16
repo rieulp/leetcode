@@ -1,13 +1,17 @@
-const fibo = Array.from({length:31},()=>-1);
-[fibo[0],fibo[1]] = [0,1];
 /**
  * @param {number} n
  * @return {number}
  */
 var fib = function(n) {
-  if(fibo[n] >= 0) return fibo[n];
+  const arr = [0,1,1];
+  let j=2;
     
-  fibo[n] = fib(n-1) + fib(n-2);
+  for(let i=3; i<=n; i++) {
+    let cur = (j+1)%3;
+    arr[cur] = arr[(j-1+3)%3] + arr[j];
+    j=cur;
+  }
     
-  return fibo[n];
+  return arr[2>=n ? n : j];
 };
+
