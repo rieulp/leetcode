@@ -1,0 +1,17 @@
+name: Notify algorithms repo
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send dispatch to algorithms repo
+        run: |
+          curl -XPOST \
+            -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+            -d '{"event_type": "update-leetcode-submodule"}' \
+            https://api.github.com/repos/rieulp/algorithms/dispatches
