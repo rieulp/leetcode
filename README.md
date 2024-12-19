@@ -8,8 +8,17 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rieulp/leetcode/tree/master/0001-two-sum) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/rieulp/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rieulp/leetcode/tree/master/0001-two-sum) |
+## Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/rieulp/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/rieulp/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
