@@ -12,6 +12,6 @@ jobs:
       - name: Send dispatch to algorithms repo
         run: |
           curl -XPOST \
-            -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+            -H "Authorization: token ${{ secrets.REPO_TOKEN }}" \
             -d '{"event_type": "update-leetcode-submodule"}' \
             https://api.github.com/repos/rieulp/algorithms/dispatches
