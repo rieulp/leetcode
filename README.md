@@ -8,12 +8,14 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rieulp/leetcode/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/rieulp/leetcode/tree/master/0268-missing-number) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/rieulp/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rieulp/leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/rieulp/leetcode/tree/master/0141-linked-list-cycle) |
+| [0268-missing-number](https://github.com/rieulp/leetcode/tree/master/0268-missing-number) |
 ## Stack
 |  |
 | ------- |
@@ -30,4 +32,20 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rieulp/leetcode/tree/master/0141-linked-list-cycle) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/rieulp/leetcode/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/rieulp/leetcode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/rieulp/leetcode/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/rieulp/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
