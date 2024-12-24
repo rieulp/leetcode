@@ -19,6 +19,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/rieulp/leetcode/tree/master/0020-valid-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/rieulp/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
@@ -48,4 +49,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/rieulp/leetcode/tree/master/0268-missing-number) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/rieulp/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
