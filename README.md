@@ -45,6 +45,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/rieulp/leetcode/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/rieulp/leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -78,4 +79,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/rieulp/leetcode/tree/master/0572-subtree-of-another-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/rieulp/leetcode/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
