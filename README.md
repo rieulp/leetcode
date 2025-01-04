@@ -67,11 +67,13 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/rieulp/leetcode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/rieulp/leetcode/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/rieulp/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/rieulp/leetcode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/rieulp/leetcode/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/rieulp/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
@@ -81,6 +83,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/rieulp/leetcode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/rieulp/leetcode/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/rieulp/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
@@ -104,5 +107,6 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/rieulp/leetcode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/rieulp/leetcode/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
