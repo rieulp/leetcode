@@ -67,10 +67,12 @@
 ## Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/rieulp/leetcode/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/rieulp/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/rieulp/leetcode/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/rieulp/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
 |  |
@@ -79,6 +81,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/rieulp/leetcode/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/rieulp/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -98,4 +101,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rieulp/leetcode/tree/master/0070-climbing-stairs) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/rieulp/leetcode/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
