@@ -9,12 +9,14 @@
 | ------- |
 | [0001-two-sum](https://github.com/rieulp/leetcode/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rieulp/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/rieulp/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/rieulp/leetcode/tree/master/0268-missing-number) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/rieulp/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rieulp/leetcode/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/rieulp/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/rieulp/leetcode/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/rieulp/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rieulp/leetcode/tree/master/0268-missing-number) |
@@ -120,4 +122,8 @@
 | [0100-same-tree](https://github.com/rieulp/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rieulp/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/rieulp/leetcode/tree/master/0226-invert-binary-tree) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/rieulp/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
