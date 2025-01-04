@@ -15,6 +15,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/rieulp/leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/rieulp/leetcode/tree/master/0141-linked-list-cycle) |
+| [0242-valid-anagram](https://github.com/rieulp/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rieulp/leetcode/tree/master/0268-missing-number) |
 ## Stack
 |  |
@@ -54,11 +55,13 @@
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/rieulp/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rieulp/leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rieulp/leetcode/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/rieulp/leetcode/tree/master/0242-valid-anagram) |
 ## Recursion
 |  |
 | ------- |
