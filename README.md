@@ -8,6 +8,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rieulp/leetcode/tree/master/0001-two-sum) |
+| [0042-trapping-rain-water](https://github.com/rieulp/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rieulp/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rieulp/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/rieulp/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -25,11 +26,13 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rieulp/leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/rieulp/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rieulp/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/rieulp/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rieulp/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rieulp/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/rieulp/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Linked List
@@ -41,6 +44,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rieulp/leetcode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/rieulp/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/rieulp/leetcode/tree/master/0141-linked-list-cycle) |
 ## Math
@@ -112,6 +116,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rieulp/leetcode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/rieulp/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rieulp/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/rieulp/leetcode/tree/master/0338-counting-bits) |
