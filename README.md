@@ -13,6 +13,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rieulp/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/rieulp/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/rieulp/leetcode/tree/master/0268-missing-number) |
+| [0853-most-profit-assigning-work](https://github.com/rieulp/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/rieulp/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Hash Table
 |  |
@@ -47,6 +48,7 @@
 | [0042-trapping-rain-water](https://github.com/rieulp/leetcode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/rieulp/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/rieulp/leetcode/tree/master/0141-linked-list-cycle) |
+| [0853-most-profit-assigning-work](https://github.com/rieulp/leetcode/tree/master/0853-most-profit-assigning-work) |
 ## Math
 |  |
 | ------- |
@@ -56,6 +58,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/rieulp/leetcode/tree/master/0268-missing-number) |
+| [0853-most-profit-assigning-work](https://github.com/rieulp/leetcode/tree/master/0853-most-profit-assigning-work) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -68,6 +71,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/rieulp/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rieulp/leetcode/tree/master/0268-missing-number) |
+| [0853-most-profit-assigning-work](https://github.com/rieulp/leetcode/tree/master/0853-most-profit-assigning-work) |
 ## String
 |  |
 | ------- |
@@ -134,4 +138,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/rieulp/leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Greedy
+|  |
+| ------- |
+| [0853-most-profit-assigning-work](https://github.com/rieulp/leetcode/tree/master/0853-most-profit-assigning-work) |
 <!---LeetCode Topics End-->
